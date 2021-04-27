@@ -31,5 +31,5 @@ Users can create a memory by inputing their name under the curator section of th
 
 
 ## Deployment
-* [Netfifly|FrontEnd ](https://www.netlify.com/)
-* [Heroku|BackEnd ](https://www.heroku.com/)
+* [Netfifly|Front End ](https://www.netlify.com/)
+* [Heroku|Back End ](https://www.heroku.com/)
