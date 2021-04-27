@@ -23,6 +23,7 @@ To build a Full Stack MERN web application.
 
 Users can create a memory by inputing their name under the curator section of the form the title of their memory and upload and image and add hashtags. Users can like images edit and delete them.
 
+<img width="1792" alt="Screen Shot 2021-04-26 at 9 46 01 PM" src="https://user-images.githubusercontent.com/72893960/116172489-dca6d580-a6d8-11eb-8c8f-3c72081594c7.png">
 
 
 
