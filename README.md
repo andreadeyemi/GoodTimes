@@ -1,6 +1,6 @@
-# Memories
+# Good Times
 
-Memories is a simple social media application that allows users to post interesting events that happened in their lives. 
+Good Times is a simple social media application that allows users to post interesting events that happened in their lives. 
 
 
 ## Goal
